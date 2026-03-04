@@ -12,7 +12,7 @@
 	<artifactId>studentdi-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>studentdi-1</name>
-	<description>Spring Boot Dependency Injection</description>
+	<description>Sprint Boot Dependency Injection</description>
 	<url/>
 	<licenses>
 		<license/>

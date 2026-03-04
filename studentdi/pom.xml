@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.klu</groupId>
-	<artifactId>studentdi-1</artifactId>
+	<artifactId>studentdi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>studentdi-1</name>
+	<name>studentdi</name>
 	<description>Sprint Boot Dependency Injection</description>
 	<url/>
 	<licenses>
